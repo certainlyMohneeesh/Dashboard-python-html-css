@@ -22,6 +22,9 @@ A modern and intuitive healthcare management system with real-time analytics, pa
 ### Patient Registration
 ![UI registration form](assets/FormUI.png)
 
+## Demo Video
+[Watch the demo video here](https://youtu.be/ordnR8KXFhE)
+
 ## Technologies Used
 
 ### Frontend
