@@ -14,13 +14,13 @@ A modern and intuitive healthcare management system with real-time analytics, pa
 ## Screenshots
 
 ### Landing Page
-[Add screenshot of landing page]
+![UI Landing Page](assets/HomePage.png)
 
 ### Dashboard
-[Add screenshot of analytics dashboard]
+![UI Dashboard](assets/DashboardUI.png)
 
 ### Patient Registration
-[Add screenshot of registration form]
+![UI registration form](assets/FormUI.png)
 
 ## Technologies Used
 
